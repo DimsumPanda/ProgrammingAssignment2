@@ -1,11 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
+
 ## The makeCacheMatrix creates a special "matrix" object that can
-##  cache its inverse.
-## The cacheSolve function computes the inverse of the special 
-##  "matrix".If the inverse has already been calculated (and the 
-##  matrix has not changed), then the cache solve should retreive 
-##  the inverse from the cache.
+## cache its inverse.The cacheSolve function computes the inverse 
+## of the special "matrix".If the inverse has already been 
+## calculated (and the matrix has not changed), then the cache 
+## solve should retreive the inverse from the cache.
 
 
 ## Basically the function creates a matrix that can cache its inverse.
